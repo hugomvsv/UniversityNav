@@ -1,0 +1,8 @@
+Hardware e Sensores/3/PR/HS-PR
+->
+LP2/4/PR/LP2-PR
+->
+Hardware e Sensores/3/TP/HS-TP
+->
+LP2/4/TP/LP2-TP
+->
